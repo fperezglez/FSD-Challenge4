@@ -1,0 +1,4 @@
+2026-09-18T09:17:31Z
+Document: original.txt
+Signature verification: VALID
+Certificate status: REVOKED

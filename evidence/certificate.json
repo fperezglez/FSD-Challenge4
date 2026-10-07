@@ -1,0 +1,14 @@
+{
+  "subject": "Alice Martin <alice.martin@research.example>",
+  "issuer": "University Research CA",
+  "serial": "URS-2025-004817",
+  "valid_from": "2025-01-01",
+  "valid_to": "2027-12-31",
+  "status": "REVOKED",
+  "revoked_at": "2026-06-14T16:22:00Z",
+  "revocation_reason": "Private key compromise reported by certificate holder.",
+  "public_key": {
+    "n": 1022117,
+    "e": 17
+  }
+}
